@@ -1,0 +1,6 @@
+{
+  "name": "Bitruvius Procedural Studio",
+  "description": "Procedural anatomical pose generator driven by mood, stance, perspective, and toggle-based fine-tuning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
